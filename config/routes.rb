@@ -4,8 +4,3 @@ Rails.application.routes.draw do
   get 'login', to: "sessions#new"
   post 'login',  to: "sessions#create"
 end
-dsdaa
-sdaasds
-asss
-assss
-ddd
